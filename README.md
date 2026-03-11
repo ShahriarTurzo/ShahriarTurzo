@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ShahriarTurzo/ShahriarTurzo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <h1 align="left">Hey, I'm Shahriar a 14year old student</h1>
