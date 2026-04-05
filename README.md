@@ -1,4 +1,4 @@
-<img align="left" height="250" src="https://i.pinimg.com/originals/8c/13/01/8c1301d108a7a4f555d1cb8f0ffb63d5.gif"  />
+<img align="right" height="250" src="https://i.pinimg.com/1200x/e8/c1/08/e8c108cf2eb1e764947ad8dd02fb11ac.jpg"  />
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Hello. I am Sadnan Shahriar. A 14year old programmer. <br>I'm really into coding since 2023.<br>i love coding for discord bots and im to learning python so i can get into cyber security.</h4>
+<h4 align="left">Hello. I am Sadnan Shahriar. A 14year old programmer. <br>I'm really into coding since 2023.<br>I Code With Python And I'm A Discord Bot Developer.<br>*i'm not that professional but im trying to learn new things and apply them into my projects*</h4>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="left">Find Me -</h1>
+<h1 align="left">Find Me Here -</h1>
 
 ###
 
